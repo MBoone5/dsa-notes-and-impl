@@ -4,4 +4,4 @@ Linear search in it's essence is a simple traversal of a collection, moving one 
 
 ## Time Complexity
 
-True to it's name, linear search is just that: _linear_ i.e. *ø(1)*
+True to it's name, linear search is just that: _linear_ i.e. **ø(1)**
